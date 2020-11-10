@@ -14,3 +14,7 @@
 
 * [Docker Swarm vs Kubernetes](undefined/docker-swarm-vs-kubernetes.md)
 
+---
+
+* [Tips](tips.md)
+
