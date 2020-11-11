@@ -8,6 +8,7 @@
 * [Docker와 VM](undefined-1/docker-vm.md)
 * [Docker 개념](undefined-1/docker.md)
 * [Use Cases \#1](undefined-1/use-cases-1.md)
+* [Use Cases \#2](undefined-1/use-cases-2.md)
 * [Tools](undefined-1/tools.md)
 
 ## 쿠버네티스
