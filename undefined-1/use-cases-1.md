@@ -28,7 +28,7 @@ description: Windows10에서 Docker 설치 및 실행
 
 4\) Docker 실행 후, 아래와 같은 에러 발생 시에는 링크에 들어가서 WSL2 업데이트를 해준다.
 
-![WSL2 &#xC5C5;&#xB370;&#xC774;&#xD2B8; &#xD544;&#xC694; &#xC5D0;&#xB7EC;](../.gitbook/assets/image%20%288%29.png)
+![WSL2 &#xC5C5;&#xB370;&#xC774;&#xD2B8; &#xD544;&#xC694; &#xC5D0;&#xB7EC;](../.gitbook/assets/image%20%289%29.png)
 
 ### 3. 실행
 
